@@ -55,3 +55,5 @@ out/
 
 # Github
 .github/
+.vscode/.vscode/mcp.json
+.vscode/mcp.json
